@@ -1,0 +1,3 @@
+In this attempt, we want to keep the stack very simply. Each item on it is a
+uint64_t, which may be a pointer, or may not.
+
